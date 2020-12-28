@@ -1,9 +1,0 @@
-"rules":{
-    "no-dupe-keys": "error",
-    "no-duplicate-case": "error",
-    "no-empty": ["error", {"allowEmptyCatch": true}],
-    "no-ex-assign":"error",
-    "no-extra-boolean-cast": "error",
-    "no-extra-semi": "error",
-    "curly": "error"
-}
